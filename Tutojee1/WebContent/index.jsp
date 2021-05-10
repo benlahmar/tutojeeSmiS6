@@ -13,7 +13,7 @@
 <link href="css.css" rel="stylesheet"/>
 </head>
 <body>
-
+<jsp:include page="header.jsp"></jsp:include>
 <%
 UserManager um=new UserManager();
 String abc="SMI";

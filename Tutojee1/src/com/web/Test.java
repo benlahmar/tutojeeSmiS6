@@ -70,7 +70,7 @@ public class Test extends HttpServlet {
 		   
 		   ses.setAttribute("user", u);
 		   
-		   response.sendRedirect("index.jsp");
+		   response.sendRedirect("starter.jsp");
 	   }else
 		  
 		   {

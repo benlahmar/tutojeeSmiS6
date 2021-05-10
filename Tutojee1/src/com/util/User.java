@@ -4,6 +4,8 @@ public class User {
 
 	int id;
 	String log,pass,role;
+	
+	
 	public int getId() {
 		return id;
 	}
